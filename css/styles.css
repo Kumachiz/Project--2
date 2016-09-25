@@ -1,0 +1,30 @@
+#Africa_text, #America_text, #Europe_text {
+  display: none;
+}
+#Europe_text {
+    background-image: url('https://drscdn.500px.org/photo/55247654/q%3D80_m%3D1500/e458465628dfff1246301a8963226e1a');
+    width: 1080px;
+    height: 200px;
+    max-width: 1920px;
+    padding: inherit;
+    padding-top: 2px;
+    color: orange;
+}
+#Africa_text {
+    background-image: url('http://www.newtimes.co.rw/files/photos/1435356890a5.jpg');
+    width: 1080px;
+    height: 200px;
+    max-width: 1920px;
+    padding: inherit;
+    padding-top: 2px;
+    color: yellow;
+}
+#America_text {
+    background-image: url('http://www.kevinandamanda.com/whatsnew/wp-content/uploads/2015/01/top-of-the-rock-rockefeller-center-nyc-new-york-city-empire-state-building-skyline.jpg');
+    width: 1080px;
+    height: 200px;
+    max-width: 1920px;
+    padding: inherit;
+    padding-top: 2px;
+    color: auto;
+}

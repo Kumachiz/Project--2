@@ -10,7 +10,7 @@ _.This will generate travel destinations depending on the choices selected._
 
 ## Setup/Installation Requirements
 
-* [_Go to my Git Hub link_](https://github.com/Kumachiz/Project-2.git///)
+* [_Go to my Git Hub link_](https://github.com/Kumachiz/Project--2.git///)
 * _Now that you're on the travel page, you can select your vacation preferences._
 * _I don't own the rights to the images used in this project._
 
